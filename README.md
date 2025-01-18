@@ -1,7 +1,5 @@
 # Crop Disease Prediction App
 
-## NOTE: This repo is Work In Progress
-
 <!-- Intro and about the project -->
 
 This app predicts the disease of the leaf image of the given plant using Deep Learning.
